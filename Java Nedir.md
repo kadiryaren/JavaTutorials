@@ -4,7 +4,7 @@ Java, 1995 yılında oluşturulmuş popüler bir programlama dilidir.
 
 Oracle'a aittir ve 3 milyardan fazla cihaz Java çalıştırmaktadır.
 
-Kullanildigi alanlar:
+Kullanıldığı alanlar:
 
 - Mobil uygulamalar (özellikle Android uygulamaları)
 - Masaüstü uygulamaları
@@ -14,7 +14,7 @@ Kullanildigi alanlar:
 - Veritabanı bağlantısı
 - Ve çok daha fazlası!
 
-## Neden Java Kullaniriz?
+## Neden Java Kullanırız?
 
 - Java farklı platformlarda çalışır (Windows, Mac, Linux, Raspberry Pi vb.)
 - Dünyanın en popüler programlama dillerinden biridir
