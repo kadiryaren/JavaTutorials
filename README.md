@@ -2,7 +2,7 @@
 
 Bu repo Java öğretmek amacıyla hazırlanmıştır. Javada temel düzeyde Syntax yapısı ve ileri düzeyde algoritmaları ve veri yapılarını kapsamaktadır. İlerleyen zamanlarda güncellenerek eğitim tamamlanacaktır.
 
-- [ ] Java Nedir?
+- [ ] [Java Nedir?](https://github.com/kadiryaren/JavaTutorials/blob/main/Java%20Nedir.md)
 - [ ] Java Syntax Yapısı
 - [ ] Java Yorumları
 - [ ] Java Değişken Tanımlama
