@@ -4,7 +4,7 @@ Bu repo Java öğretmek amacıyla hazırlanmıştır. Javada temel düzeyde Synt
 
 - [ ] [Java Nedir?](https://github.com/kadiryaren/JavaTutorials/blob/main/Java%20Nedir.md)
 - [ ] Java Nasıl Kurulur?
-- [ ] Java Syntax Yapısı
+- [ ] [Java Syntax Yapısı](https://github.com/kadiryaren/JavaTutorials/blob/main/Java%20Syntax.md)
 - [ ] Java Yorumları
 - [ ] Java Değişken Tanımlama
 - [ ] Java Veri Tipleri
@@ -18,3 +18,6 @@ Bu repo Java öğretmek amacıyla hazırlanmıştır. Javada temel düzeyde Synt
 - [ ] Java Döngüler
 - [ ] Java Break-Continue İfadeleri
 - [ ] Java Array Yapısı
+
+
+
